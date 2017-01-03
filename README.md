@@ -16,22 +16,8 @@ First,you must set the redis config.
 ![Setting][idSet]
 
 ## ChangeLog
-### 0.1.7
-- Support subJob display.
-
-### 0.1.6
-- Add "next Run Time" display.
-
-### 0.1.3
-- Fix Bug, when get job's config, can't display in Config Edit Control( control always dispaly last edit content).
-
-### 0.1.1
-- Support Job's Config Edit;
-
 ### 0.1.0
-- Job Add / del / Edit;
-- Redis Config Setting;
-
+ init project
 
 
 [sdb-schedule]: https://github.com/shudingbo/sdb-schedule
